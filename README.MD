@@ -1,6 +1,6 @@
   ## Olá! Eu sou o Anderson Casimiro 👋
-- Hoje trabalho com front-end 👀
-- HTML, CSS, JAVA SCRIPT, MONGODB,JAVA 🌱
+- Hoje trabalho como FULLSTACK 👀
+- HTML, CSS, JAVA SCRIPT, MONGODB,JAVA,NODEJS,REACTJS 🌱
 - Estou aberto para colaborar em projetos e novos desafios 💞️
 - Contate-me no email (casimiroanderson45@gmail.com) 📫
 
